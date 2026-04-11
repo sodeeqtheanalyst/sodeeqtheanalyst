@@ -13,7 +13,7 @@ Always open to meaningful collaborations and forward-thinking ideas — feel fre
 ## 🔍 What I Do
 
 - 📊 Transform data into **policy and economic insights**
-- 🌍 Analyze **trade, regional integration, and development trends**
+- 🌍 Analyze **digital and macroeconomic indicators to monitor regional integration and single market trends**
 - 🧠 Design frameworks for **Digital Economy, Data & AI Governance**
 - ⚙️ Build **dashboards, observatories, and monitoring systems**
 - 📈 Support **evidence-based decision-making** in institutions
