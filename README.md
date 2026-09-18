@@ -1,8 +1,8 @@
 # Hi, I'm Monsuru 👋
 
-Economic Data Scientist | Digital Economy & AI Policy | Trade & Development Analytics  
+Economic Data Scientist | Data & Artificial Intelligence | Digital Economy Measurement   
 
-I work at the intersection of data, policy, and economic development—translating complex datasets into actionable insights that support regional integration, institutional performance, and sustainable growth across Africa.
+I work at the intersection of data, artificial intelligence, and economic development—translating complex datasets into actionable insights that support regional integration, institutional performance, and sustainable growth across Africa.
 
 I’m most in my element when building analytical systems, shaping data-driven policy frameworks, and enabling decision-makers to act with clarity and confidence.
 
